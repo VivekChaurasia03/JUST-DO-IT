@@ -44,3 +44,5 @@ This will start the development server. Open your browser and navigate to `http:
 -   **Vite**: A fast build tool and development server for modern web projects.
 -   **CSS Modules**: For styling components locally and avoiding global CSS conflicts.
 -   **Font Awesome**: For adding icons to the application.
+
+![ToDo Application Screenshot](WEBAPP_SNAPSHOT.png)
